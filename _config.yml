@@ -1,6 +1,6 @@
 title: pandoc
 description: Some Thoughts
 author:
-  - name: Pablo Rodríguez
-  - url: http://www.ousia.tk
+  name: Pablo Rodríguez
+  url: http://www.ousia.tk
 theme: jekyll-theme-tactile
