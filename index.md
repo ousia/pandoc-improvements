@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/ousia/pandoc-improvements/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I’m only an average `pandoc` user. This site isn’t affiliated in or way with [the software](https://pandoc.org) or [its leading developer](http://johnmacfarlane.net/). Follow the links before to get information about them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What I’m trying to elaborate in this pages is which improvements would make `pandoc` and _Markdown_ reasonably better.
+
+The contents on this site are work in progress.
 
 ### Markdown
 
